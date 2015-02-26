@@ -18,7 +18,8 @@ Play Smash Bros using Risk rules using this mobile application.
 
 # Some other rules.
 - An attacker can only use a character to attack after a set number of turns after being used.
-- (Unless he has less than the amount of characters per turns of cooldown).
+
+(Unless he has less than the amount of characters per turns of cooldown).
 - No amiibos.
 
 #This app will:
